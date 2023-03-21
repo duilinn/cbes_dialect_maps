@@ -38,6 +38,8 @@ keyword_search = True
 
 cbes_word_count = 0
 
+#[^\u0000-\u00FF“”]
+
 while True:
     m_ga = ""
     m_en = ""
@@ -80,6 +82,7 @@ while True:
                                                 if re.search(search_queries[i], transcript["text"], re.IGNORECASE) != None:
                                                     if i not in search_queries_found:
                                                         search_queries_found.append(i)
+                                                    print(str(re.search(search_queries[i], transcript["text"], re.IGNORECASE)))
                     else:
                         search_queries_found = [0]
                     #get info about language, informants, collectors and location

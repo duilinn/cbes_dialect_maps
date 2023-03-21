@@ -1,2 +1,9 @@
 api_key.py
 volumes/
+volumes_full.json
+volumes_joiner.py
+age_of_word_users.py
+map_all.html
+map_en.html
+map_ga.html
+map_mixed.html
