@@ -38,7 +38,7 @@ keyword_search = True
 
 cbes_word_count = 0
 
-#[^\u0000-\u00FF“”]
+#[^\u0000-\u007F\u00a0áéíóúÁÉÍÓÚ“”‘’–—…£½¼¾⅜†°÷·]
 
 while True:
     m_ga = ""
@@ -47,9 +47,12 @@ while True:
     m_all = ""
 
     search_queries = []
+    found_queries_amounts = []
+
     number_of_queries = int(input("How many words/phrases? "))
     for i in range(number_of_queries):
         search_queries.append(input("{0}: ".format(i+1)))
+        found_queries_amounts.append(0)
 
     #go through each volume
     for volume_number in volume_numbers_list:
@@ -82,7 +85,10 @@ while True:
                                                 if re.search(search_queries[i], transcript["text"], re.IGNORECASE) != None:
                                                     if i not in search_queries_found:
                                                         search_queries_found.append(i)
-                                                    print(str(re.search(search_queries[i], transcript["text"], re.IGNORECASE)))
+                                                        found_queries_amounts[i] += 1
+                                                    characters =  transcript["text"][re.search(search_queries[i], transcript["text"], re.IGNORECASE).start(0)]
+                                                    #print("https://www.duchas.ie/ga/cbes/" + str(part["id"]) + "/" + \
+                                                    #      str(page["id"]) + "/" + str(item["id"]) + "/\t" + str(characters))
                     else:
                         search_queries_found = [0]
                     #get info about language, informants, collectors and location
@@ -193,6 +199,9 @@ while True:
     print("Number of markers: {0}".format(number_of_markers))
     print("ga: {0}\nen: {1}\nmixed: {2}".format(len(points["ga"]), len(points["en"]), len(points["mixed"])))
 
+    for i in range(len(search_queries)):
+        print("[{0}] {1}: {2}".format(i+1, search_queries[i], found_queries_amounts[i]))
+        
     ga_callback2 = """\
     function (row) {
         var marker;
@@ -227,10 +236,11 @@ while True:
                     "marker.bindPopup(popup);"
                     'return marker};')
 
-    m_ga = folium.Map((53.43, -7.93), zoom_start=7)
-    m_en = folium.Map((53.43, -7.93), zoom_start=7)
-    m_mixed = folium.Map((53.43, -7.93), zoom_start=7)
-    m_all = folium.Map((53.43, -7.93), zoom_start=7)
+    chosen_tileset = "OpenStreetMap"
+    m_ga = folium.Map((53.43, -7.93), zoom_start=7, tiles=chosen_tileset)
+    m_en = folium.Map((53.43, -7.93), zoom_start=7, tiles=chosen_tileset)
+    m_mixed = folium.Map((53.43, -7.93), zoom_start=7, tiles=chosen_tileset)
+    m_all = folium.Map((53.43, -7.93), zoom_start=7, tiles=chosen_tileset)
 
     #add legend for each query
     if keyword_search:
