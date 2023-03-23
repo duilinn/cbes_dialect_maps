@@ -1,0 +1,225 @@
+[^\u0000-\u007F\u00a0áéíóúÁÉÍÓÚ“”‘’–—…£½¼¾⅜†°÷·]
+https://www.duchas.ie/ga/cbes/4602668/4593997/4614830/  Ä
+https://www.duchas.ie/ga/cbes/4602670/4594146/4613758/  ṡ
+https://www.duchas.ie/ga/cbes/4602699/4596396/4615019/  ˙
+https://www.duchas.ie/ga/cbes/4591079/4588549/4593145/  ´
+https://www.duchas.ie/ga/cbes/4591080/4588614/4593252/  ´
+https://www.duchas.ie/ga/cbes/4613683/4608320/4623480/  å
+https://www.duchas.ie/ga/cbes/4562119/4561184/4570622/  ī
+https://www.duchas.ie/ga/cbes/4562119/4561185/4570622/  ō
+https://www.duchas.ie/ga/cbes/4562119/4561185/4570623/  ī
+https://www.duchas.ie/ga/cbes/4562119/4561186/4570623/  ē
+https://www.duchas.ie/ga/cbes/4562119/4561190/4570626/  ō
+https://www.duchas.ie/ga/cbes/4562119/4561191/4570626/  ī
+https://www.duchas.ie/ga/cbes/4566069/4564225/4572748/  ç
+https://www.duchas.ie/ga/cbes/4649674/4645553/4652703/  ⁊
+https://www.duchas.ie/ga/cbes/4569046/4566567/4583569/  ā
+https://www.duchas.ie/ga/cbes/4583271/4575330/4585800/  ė
+https://www.duchas.ie/ga/cbes/4583273/4575557/4591337/  €
+https://www.duchas.ie/ga/cbes/4649680/4646190/4651028/  ¸
+https://www.duchas.ie/ga/cbes/4583360/4583033/4584823/ ́
+https://www.duchas.ie/ga/cbes/4583360/4583035/4584823/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583037/4585675/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583042/4585706/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583044/4585706/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583069/4586520/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583080/4586556/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583077/4586568/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583087/4587861/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583089/4587861/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583091/4587864/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583093/4587864/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583095/4587874/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583097/4587874/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583099/4587874/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583101/4587874/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583104/4587877/  ¬
+https://www.duchas.ie/ga/cbes/4583360/4583056/4606730/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583058/4606730/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583058/4606761/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583060/4606761/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583062/4606779/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583035/4623604/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583039/4623609/  ́
+https://www.duchas.ie/ga/cbes/4583360/4583067/4623921/  ́
+https://www.duchas.ie/ga/cbes/4613706/4610711/4626317/  ò
+https://www.duchas.ie/ga/cbes/4613708/4610926/4626453/  ˍ
+https://www.duchas.ie/ga/cbes/4622977/4619690/4628703/  ´
+https://www.duchas.ie/ga/cbes/4622977/4619691/4628703/  ´
+https://www.duchas.ie/ga/cbes/4622977/4619692/4628703/  ´
+https://www.duchas.ie/ga/cbes/4622977/4619720/4628754/  ´
+https://www.duchas.ie/ga/cbes/4622986/4620940/4630744/  ò
+https://www.duchas.ie/ga/cbes/4622986/4620943/4630746/  ´
+https://www.duchas.ie/ga/cbes/4622986/4620980/4630772/  ɼ
+https://www.duchas.ie/ga/cbes/4623000/4622337/4630136/  ć
+https://www.duchas.ie/ga/cbes/4427785/4344296/4456664/  ´
+https://www.duchas.ie/ga/cbes/4427792/4344359/4456115/  ´
+https://www.duchas.ie/ga/cbes/4497908/4344715/4507460/  ´
+https://www.duchas.ie/ga/cbes/5215687/5206440/5288682/  º
+https://www.duchas.ie/ga/cbes/5215687/5206493/5288690/
+https://www.duchas.ie/ga/cbes/4427809/4346069/4428406/  ġ
+https://www.duchas.ie/ga/cbes/4427809/4346071/4428407/  ġ
+https://www.duchas.ie/ga/cbes/4427815/4346535/4457380/  ´
+https://www.duchas.ie/ga/cbes/4427815/4346536/4457380/  ´
+https://www.duchas.ie/ga/cbes/4427815/4346537/4457380/  ´
+https://www.duchas.ie/ga/cbes/4427815/4346587/4457972/  ´
+https://www.duchas.ie/ga/cbes/4427815/4346588/4457972/  ´
+https://www.duchas.ie/ga/cbes/4427815/4346592/4457973/  ´
+https://www.duchas.ie/ga/cbes/4427823/4347341/4447618/  ´
+https://www.duchas.ie/ga/cbes/4427821/4347215/4449460/  ´
+https://www.duchas.ie/ga/cbes/4427865/4351843/4434389/  ¬
+https://www.duchas.ie/ga/cbes/4427866/4351906/4435247/  Ċ
+https://www.duchas.ie/ga/cbes/4427866/4351933/4435360/  ́
+https://www.duchas.ie/ga/cbes/4427871/4352476/4436901/  ´
+https://www.duchas.ie/ga/cbes/4427874/4353099/4437739/  ā
+https://www.duchas.ie/ga/cbes/4427900/4356095/4450363/  à
+https://www.duchas.ie/ga/cbes/4427908/4356649/4451446/  ´
+https://www.duchas.ie/ga/cbes/4427913/4357167/4454004/  ´
+https://www.duchas.ie/ga/cbes/4427991/4365512/4468216/  ß
+https://www.duchas.ie/ga/cbes/4428011/4368053/4470925/ ̇
+https://www.duchas.ie/ga/cbes/4428039/4371113/4474758/  ć
+https://www.duchas.ie/ga/cbes/4428053/4372825/4464794/ ́
+https://www.duchas.ie/ga/cbes/4428056/4373266/4467010/  ċ
+https://www.duchas.ie/ga/cbes/4428056/4373357/4467274/  ċ
+https://www.duchas.ie/ga/cbes/4450396/4376094/4450434/  ´
+https://www.duchas.ie/ga/cbes/4450396/4376095/4450434/  ´
+https://www.duchas.ie/ga/cbes/4450396/4376100/4450435/  ´
+https://www.duchas.ie/ga/cbes/4450396/4376102/4450435/  ´
+https://www.duchas.ie/ga/cbes/4701674/4691795/4725170/  ç
+https://www.duchas.ie/ga/cbes/4701704/4694288/4759664/  Ḋ
+https://www.duchas.ie/ga/cbes/4701704/4694292/4759668/  Ḋ
+https://www.duchas.ie/ga/cbes/4701704/4694294/4759674/  Ḋ
+https://www.duchas.ie/ga/cbes/4672112/4671183/4682207/  ´
+https://www.duchas.ie/ga/cbes/4602725/4598629/4627731/  ì
+https://www.duchas.ie/ga/cbes/4602726/4598656/4628446/  ć
+https://www.duchas.ie/ga/cbes/4602755/4601388/4644667/  ģ
+https://www.duchas.ie/ga/cbes/4658423/4653790/4659056/  ₤
+https://www.duchas.ie/ga/cbes/4658423/4653792/4659056/  ƅ
+https://www.duchas.ie/ga/cbes/4658448/4656657/4660539/  ☨
+https://www.duchas.ie/ga/cbes/4798692/4790668/4823365/  î
+https://www.duchas.ie/ga/cbes/4758459/4746091/4783638/  ´
+https://www.duchas.ie/ga/cbes/5162109/5154897/5200984/  ċ
+https://www.duchas.ie/ga/cbes/4921578/4881242/5146449/  Ḋ
+https://www.duchas.ie/ga/cbes/4798749/4795457/5149277/  ö
+https://www.duchas.ie/ga/cbes/4921672/4889089/5152122/  Ḃ
+https://www.duchas.ie/ga/cbes/4921722/4893656/5182837/  Ċ
+https://www.duchas.ie/ga/cbes/4921840/4895730/5184479/  Ġ
+https://www.duchas.ie/ga/cbes/4921840/4895744/5184676/  Ċ
+https://www.duchas.ie/ga/cbes/4921840/4895803/5184859/  ḃ
+https://www.duchas.ie/ga/cbes/4921840/4895837/5185003/  ċ
+https://www.duchas.ie/ga/cbes/4613715/4611644/4659593/  К
+https://www.duchas.ie/ga/cbes/4613720/4612567/4650233/  è
+https://www.duchas.ie/ga/cbes/4678375/4673234/4678983/  №
+https://www.duchas.ie/ga/cbes/4678407/4677804/4681767/  ´
+https://www.duchas.ie/ga/cbes/4687692/4684246/4689851/  ɼ
+https://www.duchas.ie/ga/cbes/4687695/4684593/4688652/  ḃ
+https://www.duchas.ie/ga/cbes/4687695/4684639/4688669/  »
+https://www.duchas.ie/ga/cbes/4687695/4684641/4688669/  ì
+https://www.duchas.ie/ga/cbes/4707621/4685905/4707745/  С
+https://www.duchas.ie/ga/cbes/4706329/4703120/4725801/  ṡ
+https://www.duchas.ie/ga/cbes/4742069/4732487/4818109/
+https://www.duchas.ie/ga/cbes/4742089/4734847/4928124/  ∂
+https://www.duchas.ie/ga/cbes/4742094/4735262/4925949/  ¬
+https://www.duchas.ie/ga/cbes/4742123/4738089/4950465/  ד
+https://www.duchas.ie/ga/cbes/4742131/4738727/4786612/  │
+https://www.duchas.ie/ga/cbes/4742140/4740062/4761977/  ¸
+https://www.duchas.ie/ga/cbes/4742140/4740070/4770062/  ¸
+https://www.duchas.ie/ga/cbes/4742140/4740078/4770068/  ¸
+https://www.duchas.ie/ga/cbes/4742140/4740109/4770167/  ¸
+https://www.duchas.ie/ga/cbes/4742140/4740111/4770168/  ¸
+https://www.duchas.ie/ga/cbes/4742143/4740265/4816565/  ¸
+https://www.duchas.ie/ga/cbes/4921934/4911149/4932070/  à
+https://www.duchas.ie/ga/cbes/4921934/4911243/4932455/  ̶
+https://www.duchas.ie/ga/cbes/4921950/4912642/4943829/  ò
+https://www.duchas.ie/ga/cbes/4921950/4912720/4946590/  ─
+https://www.duchas.ie/ga/cbes/4922116/4853754/4949508/  η
+https://www.duchas.ie/ga/cbes/4922132/4854966/5009949/ ͡
+https://www.duchas.ie/ga/cbes/4922165/4857564/5016513/  ï
+https://www.duchas.ie/ga/cbes/4922232/4862868/5019380/  ¬
+https://www.duchas.ie/ga/cbes/4922232/4862869/5019380/  ¬
+https://www.duchas.ie/ga/cbes/4922232/4862870/5019380/  ¬
+https://www.duchas.ie/ga/cbes/4922361/4874215/5080682/  ˆ
+https://www.duchas.ie/ga/cbes/4922361/4874235/5082264/  ˆ
+https://www.duchas.ie/ga/cbes/4428109/4378842/4485265/  ό
+https://www.duchas.ie/ga/cbes/4428124/4380327/4461500/  ‚
+https://www.duchas.ie/ga/cbes/5009018/4977674/5114793/  ¬
+https://www.duchas.ie/ga/cbes/5009018/4977674/5114794/  ¬
+https://www.duchas.ie/ga/cbes/5009198/4996912/5106785/  ċ
+https://www.duchas.ie/ga/cbes/4769960/4762826/4924668/  ċ
+https://www.duchas.ie/ga/cbes/4428212/4386267/4477622/  ê
+https://www.duchas.ie/ga/cbes/4428212/4386268/4477622/  ê
+https://www.duchas.ie/ga/cbes/4758531/4752305/5014455/  È
+https://www.duchas.ie/ga/cbes/5275203/5272596/5283947/  Ò
+https://www.duchas.ie/ga/cbes/4758551/4754145/4929555/
+https://www.duchas.ie/ga/cbes/5009285/5004671/5132642/  ì
+https://www.duchas.ie/ga/cbes/4742063/4732000/4781882/  ¬
+https://www.duchas.ie/ga/cbes/4428253/4388624/4476739/  ḃ
+https://www.duchas.ie/ga/cbes/4428253/4388625/4476739/  ḃ
+https://www.duchas.ie/ga/cbes/4428271/4390365/4437029/   
+https://www.duchas.ie/ga/cbes/4428271/4390373/4437033/   
+https://www.duchas.ie/ga/cbes/4428271/4390385/4437923/   
+https://www.duchas.ie/ga/cbes/4428271/4390390/4438936/   
+https://www.duchas.ie/ga/cbes/4428271/4390417/4440210/   
+https://www.duchas.ie/ga/cbes/4428271/4390430/4441536/   
+https://www.duchas.ie/ga/cbes/4428271/4390433/4441537/   
+https://www.duchas.ie/ga/cbes/4428271/4390436/4441539/   
+https://www.duchas.ie/ga/cbes/4428271/4390444/4441545/   
+https://www.duchas.ie/ga/cbes/4428277/4391273/4462519/  ´
+https://www.duchas.ie/ga/cbes/4428287/4391968/4478692/  π
+https://www.duchas.ie/ga/cbes/4428287/4391972/4478825/  ‚
+https://www.duchas.ie/ga/cbes/4428299/4392531/4476244/  π
+https://www.duchas.ie/ga/cbes/4428303/4392911/4477491/  π
+https://www.duchas.ie/ga/cbes/4428307/4393318/4480533/  ˜
+https://www.duchas.ie/ga/cbes/4428307/4393327/4480545/  π
+https://www.duchas.ie/ga/cbes/4428307/4393368/4481392/  º
+https://www.duchas.ie/ga/cbes/4428307/4393402/4481407/  ®
+https://www.duchas.ie/ga/cbes/4428307/4393404/4481407/  π
+https://www.duchas.ie/ga/cbes/4428307/4393407/4481412/  ˜
+https://www.duchas.ie/ga/cbes/4428308/4393811/4478008/  π
+https://www.duchas.ie/ga/cbes/4428308/4393788/4478065/  π
+https://www.duchas.ie/ga/cbes/4428337/4396595/4499694/  ß
+https://www.duchas.ie/ga/cbes/4428337/4396689/5079611/  ß
+https://www.duchas.ie/ga/cbes/4428339/4396903/4552274/  ˜
+https://www.duchas.ie/ga/cbes/4428339/4396950/4552280/  ˜
+https://www.duchas.ie/ga/cbes/4428339/4396961/4552280/  π
+https://www.duchas.ie/ga/cbes/4428339/4397275/4552304/  ˙
+https://www.duchas.ie/ga/cbes/4428339/4397276/4552304/  π
+https://www.duchas.ie/ga/cbes/4428339/4397305/4552323/  ˜
+https://www.duchas.ie/ga/cbes/4428339/4397316/4552332/  π
+https://www.duchas.ie/ga/cbes/4428340/4396943/4484130/  ˘
+https://www.duchas.ie/ga/cbes/4428353/4398576/4487028/  ī
+https://www.duchas.ie/ga/cbes/4428353/4398585/4487035/  ī
+https://www.duchas.ie/ga/cbes/4428357/4399557/4486224/  ß
+https://www.duchas.ie/ga/cbes/4428357/4399186/4486229/  æ
+https://www.duchas.ie/ga/cbes/4428357/4399201/4486236/  æ
+https://www.duchas.ie/ga/cbes/4428357/4399238/4486281/  æ
+https://www.duchas.ie/ga/cbes/4428358/4399466/4486335/  ò
+https://www.duchas.ie/ga/cbes/4428358/4399479/4486339/  ï
+https://www.duchas.ie/ga/cbes/4428358/4399489/4486341/  ê
+https://www.duchas.ie/ga/cbes/5286173/5285955/5286732/  ⁊
+https://www.duchas.ie/ga/cbes/4428383/4402374/4493624/  π
+https://www.duchas.ie/ga/cbes/4428396/4404014/4512476/  π
+https://www.duchas.ie/ga/cbes/4493628/4405202/4514923/  ∂
+https://www.duchas.ie/ga/cbes/4493635/4406026/4520808/  ê
+https://www.duchas.ie/ga/cbes/4493641/4406961/4516705/  ˜
+https://www.duchas.ie/ga/cbes/4493647/4407394/4515865/  ˜
+https://www.duchas.ie/ga/cbes/4493647/4407619/4515865/  π
+https://www.duchas.ie/ga/cbes/4493647/4407662/4515908/  π
+https://www.duchas.ie/ga/cbes/4493647/4407663/4515908/  ˛
+https://www.duchas.ie/ga/cbes/4493647/4407665/4515911/  π
+https://www.duchas.ie/ga/cbes/4493647/4407671/4515919/  π
+https://www.duchas.ie/ga/cbes/4493656/4408166/4518389/  ¸
+https://www.duchas.ie/ga/cbes/4493656/4408178/4518389/  ¸
+https://www.duchas.ie/ga/cbes/4493688/4410905/4525748/  π
+https://www.duchas.ie/ga/cbes/4493689/4411070/4527904/  π
+https://www.duchas.ie/ga/cbes/4493689/4411100/4527953/  ∂
+https://www.duchas.ie/ga/cbes/4493690/4411442/4523495/  ß
+https://www.duchas.ie/ga/cbes/4493802/4422252/4540129/  ß
+https://www.duchas.ie/ga/cbes/4493802/4422254/4540135/  ˛
+https://www.duchas.ie/ga/cbes/5235089/5234144/5236404/  ´
+https://www.duchas.ie/ga/cbes/5235093/5234937/5235321/  ´
+CBÉS word count = 11465073
+Number of markers: 176
+ga: 106
+en: 59
+mixed: 11
