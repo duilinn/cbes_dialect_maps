@@ -59,7 +59,7 @@
                 layerGroup.clearLayers();
                 console.log("Loading...");
 
-                var queries = queryString.toLowerCase().split(",").map(x => "\\b" + x + "\\b");
+                var queries = queryString.toLowerCase().split(",");//.map(x => "\\b" + x + "\\b");
                 console.log(queries);
 
                 infoText = "";
