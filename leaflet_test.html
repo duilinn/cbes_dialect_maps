@@ -11,12 +11,12 @@
         crossorigin=""></script>
     </head>
     <body>
-        <div style="padding-bottom: 2px; height: 30px; width: 650px">
-            <input type="text" id="inputBox" style="height: 15px; width: 500px;"/>
-            <button onClick="searchWord(document.getElementById('inputBox').value)">Search</button>
+        <div style="padding-bottom: 2px; height: 30px; width: 650px; float: left">
+            <input type="text" id="inputBox" style="height: 25px; width: 500px; font-size: 14pt"/>
+            <button onClick="searchWord(document.getElementById('inputBox').value)" style="font-size: 14pt">Search</button>
+            <div id="infoBox" style="padding-top: 10px; font: 24pt sans-serif"></div>
         </div>
-        <br>
-        <div id="map" style="width: 600px; height: 610px;"></div>
+        <div id="map" style="width: 600px; height: 650px; float: right"></div>
 
         <script>
             var inputBox = document.getElementById("inputBox");
@@ -61,6 +61,13 @@
 
                 var queries = queryString.toLowerCase().split(",").map(x => "\\b" + x + "\\b");
                 console.log(queries);
+
+                infoText = "";
+                for (let i=0;i<queries.length;i++) {
+                    infoText += "<div style='color: " + markerColours[i] + "'>" + queries[i] + ":" + markerShapes[i] + "</div>";
+                }
+                document.getElementById('infoBox').innerHTML = infoText;
+
                 for (let volumeNumber of volumeNumbers) {
                     fetch("./volumes/" + volumeNumber + ".json")
                     .then((response) => response.json())
