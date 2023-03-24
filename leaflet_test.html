@@ -14,6 +14,7 @@
         <div style="padding-bottom: 2px; height: 30px; width: 650px; float: left">
             <input type="text" id="inputBox" style="height: 25px; width: 500px; font-size: 14pt"/>
             <button onClick="searchWord(document.getElementById('inputBox').value)" style="font-size: 14pt">Search</button>
+            <table id="infoBox" style="padding-top: 10px; font: 24pt sans-serif"></table>
         </div>
         <div id="map" style="width: 850px; height: 650px; float: right"></div>
 
@@ -36,14 +37,26 @@
             var countiesStyle = {
                 "color": "#888",
                 "weight": 1,
-                "fillOpacity": 0
+                "fillOpacity": 0,
             };
+
+            // var gaeltacht1926Style = {
+            //     "color": "#080",
+            //     "weight": 0,
+            //     "fillOpacity": 0.3,
+            //     "fillColor": "#080"
+            // };
 
             fetch("./ireland_counties.geojson")
                     .then((response) => response.json())
                     .then((json) =>
                     {L.geoJSON(json, {style: countiesStyle}).addTo(map);})
 
+            // fetch("./gaeltacht_1926_eds.geojson")
+            // .then((response) => response.json())
+            // .then((json) =>
+            // {L.geoJSON(json, {style: gaeltacht1926Style}).addTo(map);})
+            
             //var marker = L.marker([53, -8], {icon: L.icon({iconUrl: 'red_circle.png'})}).addTo(map);
 
             // function readStringFromFileAtPath(pathOfFileToReadFrom)
@@ -76,6 +89,7 @@
                 for (let i=0;i<queries.length;i++) {
                     infoText += "<tr style='color: " + markerColours[i] + "'><td>" + queries[i] + "</td><td style='align: centre'>" + markerShapes[i] + "</td></tr>";
                 }
+                document.getElementById('infoBox').innerHTML = infoText;
 
                 for (let volumeNumber of volumeNumbers) {
                     fetch("./volumes/" + volumeNumber + ".json")
